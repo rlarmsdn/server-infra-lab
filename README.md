@@ -2,3 +2,4 @@
 서버 인프라 실습 기록 (Linux, 스토리지, 백업, AI 인프라)
 ## 실습 기록
 - [01. Rocky Linux 9 서버 구축](01-linux-setup.md)
+- [02. 호스트 이름, 서비스 확인, SSH 원격 접속](02-ssh-and-services.md)
